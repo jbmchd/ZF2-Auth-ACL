@@ -1,5 +1,5 @@
 {
-    "name": "arvind2110/zf2-auth-acl",
+    "name": "jbmchd/zf2-auth-acl",
     "description": "ZF2-Auth-ACL is very simple ZF2 module for ZF2 Auth/ACL use.",
     "type": "library",
     "keywords": [
